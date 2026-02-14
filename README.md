@@ -20,6 +20,11 @@ Email Me 👉 ✉️ **nagendraakinepelly@gmail.com** For Collaboration / Projec
 [![GitHub](https://img.shields.io/badge/GitHub-Nagendra--akinepelly123-black?logo=github&logoColor=white)](https://github.com/Nagendra-akinepelly123)  
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🚀 Featured Projects  
 
