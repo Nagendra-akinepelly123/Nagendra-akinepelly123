@@ -49,7 +49,7 @@ Arduino-based gas detection system with alert mechanism.
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge)
 
 ### ⚡ Embedded & Hardware
-![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded%20C-blue?style=for-the-badge) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge) ![Proteus](https://img.shields.io/badge/Proteus-Simulation-orange?style=for-the-badge) ![I2C](https://img.shields.io/badge/I2C-Protocol-green?style=for-the-badge) ![UART](https://img.shields.io/badge/UART-Serial-red?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded%20C-blue?style=for-the-badge) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge) ![Proteus](https://img.shields.io/badge/Proteus-Simulation-orange?style=for-the-badge)
 
 
 ---
